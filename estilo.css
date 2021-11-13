@@ -1,0 +1,42 @@
+ * {
+	font-family: 'Sarina', cursive;
+	font-size: 30px;
+	font-weight: 100;
+}
+
+ .T {
+ 
+ 	position: sticky;
+ 	top: 50px;
+ 	color: darkred;
+ 	display: inline;
+ }
+
+ .E {
+ 	position: sticky;
+ 	top: 50px;
+ 	color: darkred;
+ 	display: inline;
+ 	
+ }
+
+ .A {
+ 		position: sticky;
+ 	top: 50px;
+ 	color: darkred;
+ 	display: inline;
+ }
+ 
+ .M {
+ 	position: sticky;
+ 	top: 50px;
+ 	color: darkred;
+ 	display: inline;
+ }
+ 
+ .O {
+ 		position: sticky;
+ 	top: 50px;
+ 	color: darkred;
+ 	display: inline;
+ }
